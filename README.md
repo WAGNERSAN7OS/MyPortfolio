@@ -1,2 +1,2 @@
-# MyPortifolio
-Meu 1º Projeto - Portifólio HTML, CSS e Javascript
+# MyPortfolio
+Meu 1º Projeto - Portfolio HTML, CSS e Javascript
