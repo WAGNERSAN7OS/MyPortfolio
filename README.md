@@ -97,34 +97,34 @@ Windows Server, Linux, SQL Server, MySQL, RUP, SCRUM, Configuração de Redes, F
 
 ## CURSOS:
 
-**Curso Git e GitHub - Zero ao Avançado** (**Udemy:** 6 Horas - Concluído 2022)
+* **Curso Git e GitHub - Zero ao Avançado** (**Udemy:** 6 Horas - Concluído 2022)
 
-**Curso pfSense - Solução completa de Firewall** (**Udemy:** 11 Horas - Concluído 2021)
+* **Curso pfSense - Solução completa de Firewall** (**Udemy:** 11 Horas - Concluído 2021)
 
-**Curso DevOps - Docker, Kubernetes e Rancher** (**Udemy:** 15 Horas - Concluído 2021)
+* **Curso DevOps - Docker, Kubernetes e Rancher** (**Udemy:** 15 Horas - Concluído 2021)
 
-**Curso AWS - Aprenda e Domine a Amazon Cloud** (**Udemy:** 6 Horas - Concluído 2021)
+* **Curso AWS - Aprenda e Domine a Amazon Cloud** (**Udemy:** 6 Horas - Concluído 2021)
 
-**Curso Microsoft Azure Fundamentals (AZ-900)** (**KA Solution:** 8 Horas - Concluído 2020)
+* **Curso Microsoft Azure Fundamentals (AZ-900)** (**KA Solution:** 8 Horas - Concluído 2020)
 
-**Curso Windows Server 2016** (**Udemy:** 47 Horas - Concluído 2020)
+* **Curso Windows Server 2016** (**Udemy:** 47 Horas - Concluído 2020)
 
-**Curso Zabbix** (**Udemy:** 12 Horas - Concluído 2020)
+* **Curso Zabbix** (**Udemy:** 12 Horas - Concluído 2020)
 
-**Curso Central de Serviços com GLPI** (**Udemy:** 26 Horas - Concluído 2020)
+* **Curso Central de Serviços com GLPI** (**Udemy:** 26 Horas - Concluído 2020)
 
-**Curso Banco de Dados MySQL** (**Udemy:** 4:30 Horas - Concluído 2020)
+* **Curso Banco de Dados MySQL** (**Udemy:** 4:30 Horas - Concluído 2020)
 
-**Curso Linux Beginners in Cloud Online** (**4Linux:** 20 Horas - Concluído 2020)
+* **Curso Linux Beginners in Cloud Online** (**4Linux:** 20 Horas - Concluído 2020)
 
-**Curso Introduction to IoT** (**SECITEC/Cisco-CCNA:** 2 Meses - Concluído 2019)
+* **Curso Introduction to IoT** (**SECITEC/Cisco-CCNA:** 2 Meses - Concluído 2019)
 
-**Curso Introduction to Cybersecurity** (**SECITEC/Cisco-CCNA:** 2 Meses - Concluído 2019)
+* **Curso Introduction to Cybersecurity** (**SECITEC/Cisco-CCNA:** 2 Meses - Concluído 2019)
 
-**Curso de Inglês** (**JPI Inglês Total - Adulto Nível VI:** 3 Anos - Concluído em 2016)
+* **Curso de Inglês** (**JPI Inglês Total - Adulto Nível VI:** 3 Anos - Concluído em 2016)
 
-**Curso de Gerência Média** (**EVMH:** 6 Meses - Concluído em 2011)
+* **Curso de Gerência Média** (**EVMH:** 6 Meses - Concluído em 2011)
 
-**Programa de Excelência Profissional** (**SEBRAE:** 8 Meses - Concluído em 2007)
+* **Programa de Excelência Profissional** (**SEBRAE:** 8 Meses - Concluído em 2007)
 
-**Operador em Microcomputador** (**DATAMASTER:** 8 Meses - Concluído em 2003)
+* **Operador em Microcomputador** (**DATAMASTER:** 8 Meses - Concluído em 2003)
