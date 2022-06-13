@@ -38,14 +38,12 @@ Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suport
 
 **Principais atividades:** Gerenciar Servidor Windows Server 2016, Gerenciar o WSUS (Update do Windows), AD e Antivirus, GLPI, WhatsUp GOLD, Infraestrutura TI, Suporte Técnico, Suporte ao Usuário, Instalação e Treinamento ao Cliente, Help Desk, Teste de Software, Manutenção de Equipamentos, Configuração de Rede, Práticas de Segurança da Informação ISO 9001-2015, Projetos: Sistema Biométrico CNH, Sistema Biométrico Identidade, Sistema Biométrico COREN, Sistema Biométrico DPF.
 
-
 **Período:** Atual
 
 * **07/2017 – 03/2018 – YUPPIE Tech**
 **Cargo:** Auxiliar de Suporte em TI
 
 **Principais atividades:** Suporte Técnico, Suporte ao Usuário, Treinamento ao Cliente, Help Desk, Teste de Software.
-
 
 **Período:** 8 Meses
 
@@ -54,14 +52,12 @@ Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suport
 
 **Principais atividades:** Suporte Técnico, Montagem e Manutenção, Suporte ao Usuário, Monitoramento de Segurança, Configuração de Redes.
 
-
 **Período:** Temporário
 
 * **11/2012 – 07/2016 – VSoft Soluções Tecnológicas Ltda.**
 **Cargo:** Analista de Suporte em TI
 
 **Principais atividades:** Suporte Técnico, Instalação e Treinamento ao Cliente, Help Desk, Configuração do Sistema Biométrico CFC, Teste de Software.
-
 
 **Período:** 3 Anos e 8 Meses
 
@@ -70,14 +66,12 @@ Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suport
 
 **Principais atividades:** Administração em TI, Suporte Técnico, Montagem e Manutenção, Suporte ao Usuário, Configuração de Redes.
 
-
 **Período:** 1 Ano
 
 * **03/2010 – 03/2011 – Tropical Hotel Tambaú**
 **Cargo:** Analista de Suporte
 
 **Principais atividades:** Suporte Técnico, Montagem e Manutenção, Suporte ao Usuário, Monitoramento de Segurança, Configuração de Redes.
-
 
 **Período:** 1 Ano
 
@@ -86,7 +80,6 @@ Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suport
 
 **Principais atividades:** Prestação de contas a pagar e a receber, controle do fluxo de caixa, pagamento de colaboradores, consolidação do balanço diário, recebimento de produtos e combustíveis.
 
-
 **Período:** 2 Anos e 9 Meses
 
 * **11/2001 – 08/2003 – DATAMASTER Informática**
@@ -94,12 +87,11 @@ Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suport
 
 **Principais atividades:** Suporte Técnico em montagem e manutenção de Computadores, Monitor de Turma, divulgação em Escolas da Rede Pública e em Empresas.
 
-
 **Período:** 1 Ano e 8 Meses
 
 # QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS
 
-## DICIPLINAS:
+## DISCIPLINAS:
 
 Windows Server, Linux, SQL Server, MySQL, RUP, SCRUM, Configuração de Redes, Fundamentos de Rede, Cabeamento Estruturado, Gerenciamento de Redes, Banco de Dados, Teste de Software, Direito e Ética Profissional, Inglês Técnico e Instrumental, Auditoria de Segurança da Informação, Montagem e Manutenção.
 
