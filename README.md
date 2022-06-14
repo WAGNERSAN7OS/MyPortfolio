@@ -1,9 +1,7 @@
 # MyPortfolio
 Meu 1º Projeto - Portfolio HTML, CSS e Javascript
 
-<center>
-<img src="https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png" alt="git_logo" height="150" widht="150">
-</center>
+![Git Logo](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 [Bem-vindo](#seja-bem-vindo-ao-meu-perfil) |
 [Rede Social](#rede-social) |
@@ -25,7 +23,6 @@ Meu 1º Projeto - Portfolio HTML, CSS e Javascript
 ## OBJETIVO
 
 Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suporte Técnico necessário na Empresa, dentro do escopo das minhas funções, em que ofereça oportunidades de crescimento e me permita utilizar minhas habilidades conforme as experiências adquiridas.
-
 ## FORMAÇÃO
 
 * **Pós-Graduação –** Especialização em Segurança Cibernética – **UNIPÊ**
@@ -104,7 +101,6 @@ Analista de Suporte em Infraestrutura de TI com foco para realizar todo o Suport
 ## DISCIPLINAS:
 
 Windows Server, Linux, SQL Server, MySQL, RUP, SCRUM, Configuração de Redes, Fundamentos de Rede, Cabeamento Estruturado, Gerenciamento de Redes, Banco de Dados, Teste de Software, Direito e Ética Profissional, Inglês Técnico e Instrumental, Auditoria de Segurança da Informação, Montagem e Manutenção.
-
 ## CURSOS:
 
 * **Curso Git e GitHub - Zero ao Avançado** (**Udemy:** 6 Horas - Concluído 2022)
