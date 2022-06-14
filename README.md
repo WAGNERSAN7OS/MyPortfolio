@@ -1,7 +1,9 @@
 # MyPortfolio
 Meu 1º Projeto - Portfolio HTML, CSS e Javascript
 
-![Git Logo](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+<center>
+<img src="https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png">
+</center>
 
 [Bem-vindo](#seja-bem-vindo-ao-meu-perfil) |
 [Rede Social](#rede-social) |
