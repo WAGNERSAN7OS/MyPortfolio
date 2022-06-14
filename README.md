@@ -2,7 +2,7 @@
 Meu 1º Projeto - Portfolio HTML, CSS e Javascript
 
 <center>
-<img src="https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png" height="150" widht="150">
+<img src="https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png" alt="git_logo" height="150" widht="150">
 </center>
 
 [Bem-vindo](#seja-bem-vindo-ao-meu-perfil) |
